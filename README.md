@@ -6,4 +6,4 @@
 
 #### 그리디 알고리즘
 
-- [세탁소 사장 동혁](https://github.com/tkdgus7707/Coding-Test/tree/master/Baekjoon/%EC%84%B8%ED%83%81%EC%86%8C%20%EC%82%AC%EC%9E%A5%20%EB%8F%99%ED%98%81)
+- [세탁소 사장 동혁](./Baekjoon/세탁소_사장_동혁/README.md)
