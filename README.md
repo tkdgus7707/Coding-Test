@@ -9,4 +9,4 @@
 - [세탁소 사장 동혁](./Baekjoon/세탁소-사장-동혁/README.md)
 - [ATM](./Baekjoon/ATM/README.md)
 
-- [Project Teams](./Baekjoon/Project-Teams/README.md)
+- [Project Teams](./Baekjoon/Project%20Teams/README.md)
