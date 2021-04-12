@@ -6,7 +6,7 @@
 
 #### 그리디 알고리즘
 
-- [세탁소 사장 동혁](./Baekjoon/세탁소-사장-동혁/README.md)
-- [ATM](./Baekjoon/ATM/README.md)
+- [세탁소 사장 동혁](./Baekjoon/세탁소%20사장%20동혁)
+- [ATM](./Baekjoon/ATM)
 
-- [Project Teams](./Baekjoon/Project%20Teams/README.md)
+- [Project Teams](./Baekjoon/Project%20Teams)
