@@ -8,7 +8,7 @@
 
 - [세탁소 사장 동혁](./Baekjoon/세탁소%20사장%20동혁)
 - [ATM](./Baekjoon/ATM)
-
 - [Project Teams](./Baekjoon/Project%20Teams)
-
 - [동전 0](./Baekjoon/동전%200)
+- [회의실 배정](./Baekjoon/회의실%20배정)
+- [잃어버린 괄호](./Baekjoon/잃어버린%20괄호)

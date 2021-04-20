@@ -1,3 +1,5 @@
-#### 문제
+#### 동전 0
 
-- https://www.acmicpc.net/problem/11047
+------
+
+- [문제](https://www.acmicpc.net/problem/11047)
