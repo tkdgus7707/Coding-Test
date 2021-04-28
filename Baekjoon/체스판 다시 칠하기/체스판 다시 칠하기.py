@@ -1,0 +1,22 @@
+n, m = map(int, input().split())
+badook = list()
+mini = []
+for _ in range(n):
+    badook.append(input())
+
+for a in range(n-7): # 시작점 지정
+    for i in range(m-7):
+        idx1 = 0 # W로 시작했을 때
+        idx2 = 0 # B로 시작했을 때
+        for b in range(a, a+8):
+            for j in range(i, i+8):  # 8x8 범위를 B와 W로 번갈아가면서 검사
+                if (j+b)%2 == 0: # 
+                    if badook[b][j] != 'W': idx1 += 1
+                    if badook[b][j] != 'B': idx2 += 1
+                else:
+                    if badook[b][j] != 'B': idx1 += 1
+                    if badook[b][j] != 'W': idx2 += 1
+        mini.append(idx1)  # W로 시작했을 때 칠해야 할 부분
+        mini.append(idx2)  # B로 시작했을 때 칠해야 할 부분
+
+print(min(mini)) # 최소
